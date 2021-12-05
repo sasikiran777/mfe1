@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06d9ae1f-6a2f-4ce3-8418-728fb372b593" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/footer/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mfe2/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../firebase-xmpl/src/firebase/firebase_config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/.idea/vue-firebase.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/firebase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-firebase/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3-peerjs/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue3/vite.config.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="21s1cHgmkjMVK1A3CJoGHgdcONF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06d9ae1f-6a2f-4ce3-8418-728fb372b593" name="Changes" comment="" />
+      <created>1638715059191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638715059191</updated>
+      <workItem from="1638715060376" duration="1087000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
